@@ -1,0 +1,25 @@
+.Home {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  border-radius: 0px;
+  background: linear-gradient(121.97deg, #13faee 14.75%, #3194f0 44.09%, #f08446 70.11%, #ef5479 86.2%, #ee00e4 99.86%);
+  background-repeat: no-repeat;
+  background-position: top right;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &__button{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 50px;
+    background: black;
+    color: white;
+    border-radius: 16px;
+  }
+}
+
+

@@ -1,0 +1,106 @@
+{
+  "locale": "es-es",
+  "home": {
+    "section1": {
+      "title": "Vamos más allá de un simple seguro de vida",
+      "subtitle": "El seguro más seguro del mundo",
+      "info1": "El único seguro de vida que se puede contratar 100% online y tiene resplado blockchain.",
+      "info2": "Nuestra prioridad es ofrecerte lo que necesitas de una manera sencilla y segura.",
+      "bg": "Fotografía",
+      "moreInfoBtn": "Saber más",
+      "futureBtn": "Asegurar mi futuro"
+    },
+    "section2": {
+      "title": "Olvídate de todo lo que hasta ahora te habían contado sobre seguros de vida",
+      "subtitle": "Empezamos por ofrecer un precio muy competitivo para asegurar tu futuro y el de tu familia. Nuestro seguro de vida se contrata 100% online, con todo muy claro por lo que evitamos intermediarios y podemos dar las mismas coberturas a un precio mejor. Además, Nuestro ayudarle a asegurar su futuro. ",
+      "target1": {
+        "title": "Seguro de vida adaptado a lo que necesitas",
+        "text": "No todos necesitamos lo mismo. Al conocerte previamente podemos saber qué necesitas para ofrecerte un seguro de vida que se adapta a tus necesidades y a las de tu familia. Un seguro de vida que te aporta la protección que realmente necesitas. Ni más ni menos."
+      },
+      "target2": {
+        "title": "Sin necesidad de traductor",
+        "text": "Te explicamos de forma clara lo que otros te habían ocultado o contado de manera confusa. No queremos que te lleves  sorpresas ni ahora ni en un futuro. Vamos al grano. "
+      },
+      "target3": {
+        "title": "Tú eres el único protagonista",
+        "text": "La ventaja de ser online es que tu decides dónde y cuándo quieres contratar. Ahora tú eres quién tiene el control sobre la decisión final. Sin intermediarios, sin llamadas, sin trámites engorrosos."
+      },
+      "title2": "Una nueva forma de asegurar tu futuro",
+      "info1": "Saber qué es lo que necesitan las personas es el primer paso y el que todos se saltan para poder ir directamente al producto.",
+      "info2": "Analizar tu situación primero y luego mostrarte una solución, así es cómo siempre debería haberse hecho, así es como nosotros lo hacemos.",
+      "info3": "Te ayudamos a saber qué es lo que realmente necesitas para asegurar tu futuro y el de tu familia. ",
+      "futureBtn": "Asegurar mi futuro",
+      "bg": "Fotografía"
+    },
+    "FAQs": {
+      "title": "Preguntas sobre nuestro seguro Blockchain",
+      "questions": [
+        {
+          "id": "0",
+          "title": "¿A quién va dirigido este seguro?",
+          "answer": "¿Tienes personas dependientes de ti y de tus ingresos? Este seguro de vida es para ti, tus seres queridos estarán protegidos, al menos económicamente en caso de que a ti te pase algo. ¿Eres una persona totalmente independiente y sin ataduras? Este seguro de vida también es para ti, te permitirá seguir teniendo la independencia de la que disfrutas actualmente en caso de sufrir una invalidez o enfermedad grave."
+        },
+        {
+          "id": "1",
+          "title": "¿Qué coberturas me ofrece un seguro de vida?",
+          "answer": ""
+        },
+        {
+          "id": "2",
+          "title": "¿Cuál es la edad mínima para contratar un seguro de vida? ¿Y la máxima?",
+          "answer": ""
+        },
+        {
+          "id": "3",
+          "title": "¿Es necesario completar un formulario médico?",
+          "answer": ""
+        },
+        {
+          "id": "4",
+          "title": "¿Es obligatorio tener un seguro de vida vinculado a mi hipoteca?",
+          "answer": ""
+        },
+        {
+          "id": "5",
+          "title": "¿Puedo tener dos o más seguros de vida contratados?",
+          "answer": ""
+        }
+      ]
+    },
+    "section3": {
+      "title": "Tacha buscar un seguro de vida de tu lista de tareas y disfruta de tu tranquilidad.",
+      "moreInfoBtn": "Saber más",
+      "hireBtn": "Contratar",
+      "bg": "Fotografía"
+    },
+    "footer": {
+      "logo": "Livetopic",
+      "email": "info@livetopic.com",
+      "address": "C/ Virgen del Camino 2, Oficina 15 36001 Pontevedra, Spain",
+      "text": "Tacha buscar un seguro de vida de tu lista de tareas y disfruta de tu tranquilidad.",
+      "futureBtn": "Asegurar mi futuro",
+      "accident": "Notificar un Siniestro"
+    }
+  },
+  "form":{
+      "name": "Nombre",
+      "surname": "Apellidos",
+      "birth": {
+        "day": "Día de nacimiento",
+        "month": "Mes de nacimiento",
+        "year": "Año de nacimiento"
+      },
+      "mail": "Email",
+      "phone": "Teléfono",
+      "id": "DNI/NIE",
+      "nationality": "Nacionalidad",
+      "genre": "Género",
+      "postal": {
+        "street": "Dirección postal",
+        "code": "Código Postal",
+        "city": "Ciudad",
+        "country": "País"
+      },
+      "job": "Profesión"
+  }
+}
