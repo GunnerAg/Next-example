@@ -50,15 +50,8 @@ export default function form() {
                 {isValid() && <button
                   name="1"
                   onClick={sendForm}
-                  className={`flex items-center ${styles.Page__lastSection__btn2}`}
-                >    
-                  <div  className={styles.Page__lastSection__btn2__txt}>Enviar</div>
-                  <Image
-                    width={16}
-                    height={16}
-                    src="/Form/arrowR.svg"
-                    className="mr-2.5"
-                  />
+                  className={`flex items-center ${styles.Page__lastSection__btn}`}
+                > Enviar
                 </button>}
               </div>
             </div>

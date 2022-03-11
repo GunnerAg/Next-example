@@ -1,13 +1,9 @@
-import { formDataContext } from "../context/context/formContext";
-
 const years = [];
-
 const daysArr = (x) => {
   return Array(x)
     .fill()
     .map((x, i) => i + 1);
 };
-
 const months = [
   { id: 0, name: "Enero", days: daysArr(31), daysB: daysArr(31) },
   { id: 1, name: "Febrero", days: daysArr(28), daysB: daysArr(29) },
@@ -22,7 +18,6 @@ const months = [
   { id: 10, name: "Noviembre", days: daysArr(30), daysB: daysArr(30) },
   { id: 11, name: "Diciembre", days: daysArr(31), daysB: daysArr(31) },
 ];
-
 const getId = (x) => {
   for (let i = 0; i <= months.length; i++) {
     if (months[i].name === x) {
@@ -30,7 +25,6 @@ const getId = (x) => {
     }
   }
 };
-
 const getName = (x) => {
   months.forEach((m)=>{
     if(m.id  ===  Number(x)-1){
@@ -38,7 +32,6 @@ const getName = (x) => {
     }
   });
 };
-
 for (let i = 0; i <= 120; i++) {
   // years.push({value:Number(1900+i), bisiesto:Number(1900+i)%4 === 0});
   years.push({
@@ -54,7 +47,6 @@ for (let i = 0; i <= 120; i++) {
     });
   }
 }
-
 const countries = [
   { value: "Afgana", label: "Afgana" },
   { value: "Alemana", label: "Alemana" },
@@ -127,5 +119,4 @@ const countries = [
   { value: "Venezolana", label: "Venezolana" },
   { value: "Vietnamita", label: "Vietnamita" }
 ];
-
 export { years, months, countries, getId, getName };
