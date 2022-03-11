@@ -1,10 +1,8 @@
-import { useState } from "react";
-import Image from "next/image";
 import {
   years,
   countries,
 } from "../../helpers/data";
-import { getId, getName } from "../../helpers/data";
+import { getName } from "../../helpers/data";
 import content from "../../translate/es.json";
 import styles from "./Page1.module.scss";
 

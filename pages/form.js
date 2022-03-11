@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import Image from "next/image";
+import React from "react";
 import { useFormData } from "../context/hooks/useFormData";
 import Form from "../components/Form/Form";
 import styles from "../components/Form/Form.module.scss";
